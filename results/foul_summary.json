@@ -1,0 +1,91 @@
+{
+  "sga_chances": 1576,
+  "sga_games": 68,
+  "sga_ft_only_share": 0.1618020304568528,
+  "sga_points_per_chance": 1.3267766497461928,
+  "sga_fg_points": 1577,
+  "sga_ft_points": 514,
+  "sga_ft_point_share": 0.2458153993304639,
+  "coverage": [
+    {
+      "player": "Anthony Edwards",
+      "normal_fta": 410,
+      "retained_normal_fta": 404,
+      "special_fta": 15,
+      "excluded_normal_clusters": 4
+    },
+    {
+      "player": "Chet Holmgren",
+      "normal_fta": 277,
+      "retained_normal_fta": 272,
+      "special_fta": 7,
+      "excluded_normal_clusters": 3
+    },
+    {
+      "player": "Jalen Williams",
+      "normal_fta": 125,
+      "retained_normal_fta": 122,
+      "special_fta": 4,
+      "excluded_normal_clusters": 2
+    },
+    {
+      "player": "Kevin Durant",
+      "normal_fta": 417,
+      "retained_normal_fta": 408,
+      "special_fta": 36,
+      "excluded_normal_clusters": 6
+    },
+    {
+      "player": "Nikola Joki\u0107",
+      "normal_fta": 460,
+      "retained_normal_fta": 442,
+      "special_fta": 8,
+      "excluded_normal_clusters": 13
+    },
+    {
+      "player": "Shai Gilgeous-Alexander",
+      "normal_fta": 588,
+      "retained_normal_fta": 582,
+      "special_fta": 26,
+      "excluded_normal_clusters": 5
+    }
+  ],
+  "spurs_split": [
+    {
+      "sample": "Versus San Antonio",
+      "metric": "ft_only",
+      "chances": 99,
+      "games": 4,
+      "estimate": 0.12121212121212122,
+      "lower": 0.08163265306122448,
+      "upper": 0.16
+    },
+    {
+      "sample": "Versus San Antonio",
+      "metric": "points",
+      "chances": 99,
+      "games": 4,
+      "estimate": 1.1818181818181819,
+      "lower": 1.0319148936170213,
+      "upper": 1.3195876288659794
+    },
+    {
+      "sample": "Other opponents",
+      "metric": "ft_only",
+      "chances": 1477,
+      "games": 64,
+      "estimate": 0.16452268111035884,
+      "lower": 0.14295333464877666,
+      "upper": 0.18560294019741475
+    },
+    {
+      "sample": "Other opponents",
+      "metric": "points",
+      "chances": 1477,
+      "games": 64,
+      "estimate": 1.3364928909952607,
+      "lower": 1.275594129330288,
+      "upper": 1.3992754926493587
+    }
+  ]
+}

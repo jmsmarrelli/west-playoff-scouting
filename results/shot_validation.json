@@ -1,0 +1,14 @@
+{
+  "training_attempts": 218905,
+  "test_attempts": 215859,
+  "test_games": 1212,
+  "model_logloss": 0.6485987898495147,
+  "baseline_logloss": 0.6570204590529689,
+  "model_brier": 0.22865574963312413,
+  "baseline_brier": 0.2322256589494198,
+  "loss_difference": -0.008421669203454434,
+  "lower": -0.00913161239535603,
+  "upper": -0.0076531152094916,
+  "training_season": "2024-25",
+  "test_season": "2025-26"
+}

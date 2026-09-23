@@ -1,0 +1,61 @@
+{
+  "validation": {
+    "train_chances": 40553,
+    "test_chances": 59658,
+    "model_logloss": 0.5740138654619885,
+    "baseline_logloss": 0.5792641775569691,
+    "model_brier": 0.19315820279206128,
+    "baseline_brier": 0.1952502010644661,
+    "loss_difference": -0.005250312094980687,
+    "lower": -0.006177736917784028,
+    "upper": -0.004379657094150895,
+    "later_league_oreb_rate": 0.26594924402427167,
+    "later_league_residual": -0.004229228099017014
+  },
+  "teams": [
+    {
+      "team": "OKC",
+      "chances": 1982,
+      "games": 48,
+      "offensive_rebounds": 463,
+      "raw_rate": 0.2336024217961655,
+      "expected_rate": 0.2671617119301169,
+      "league_relative_residual": -0.02933006203493441,
+      "lower": -0.0519540415842836,
+      "upper": -0.007250608569205469
+    },
+    {
+      "team": "DEN",
+      "chances": 1941,
+      "games": 49,
+      "offensive_rebounds": 455,
+      "raw_rate": 0.2344152498712004,
+      "expected_rate": 0.26876913090892923,
+      "league_relative_residual": -0.0301246529387118,
+      "lower": -0.051220358503928566,
+      "upper": -0.00961276461870668
+    },
+    {
+      "team": "HOU",
+      "chances": 2048,
+      "games": 50,
+      "offensive_rebounds": 698,
+      "raw_rate": 0.3408203125,
+      "expected_rate": 0.2688617731511255,
+      "league_relative_residual": 0.07618776744789152,
+      "lower": 0.055858118314242707,
+      "upper": 0.0964394499047728
+    },
+    {
+      "team": "MIN",
+      "chances": 1919,
+      "games": 48,
+      "offensive_rebounds": 504,
+      "raw_rate": 0.26263678999478896,
+      "expected_rate": 0.269619136042891,
+      "league_relative_residual": -0.002753117949085072,
+      "lower": -0.02098687712049954,
+      "upper": 0.016324014409125648
+    }
+  ]
+}

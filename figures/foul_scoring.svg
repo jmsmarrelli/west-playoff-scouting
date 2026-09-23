@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="673.2pt" height="308.219766pt" viewBox="0 0 673.2 308.219766" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:description>Scoring channels add to the total. And-one points stay with the made field-goal chance; this is not points per possession.</dc:description>
+    <dc:format>image/svg+xml</dc:format>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M -0 308.219766 
+L 673.2 308.219766 
+L 673.2 0 
+L -0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 147.6 226.101656 
+L 666 226.101656 
+L 666 36.597656 
+L 147.6 36.597656 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="patch_3">
+    <path d="M 147.6 45.211474 
+L 598.668638 45.211474 
+L 598.668638 73.924202 
+L 147.6 73.924202 
+z
+" clip-path="url(#pcdf45119cd)" style="fill: #15191d"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 147.6 93.06602 
+L 162.187508 93.06602 
+L 162.187508 121.778747 
+L 147.6 121.778747 
+z
+" clip-path="url(#pcdf45119cd)" style="fill: #79858c"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 147.6 140.920565 
+L 259.151534 140.920565 
+L 259.151534 169.633293 
+L 147.6 169.633293 
+z
+" clip-path="url(#pcdf45119cd)" style="fill: #1876a3"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 147.6 188.775111 
+L 168.480159 188.775111 
+L 168.480159 217.487838 
+L 147.6 217.487838 
+z
+" clip-path="url(#pcdf45119cd)" style="fill: #147d92"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m980f04a526" d="M 0 0 
+L 0 3.5 
+" style="stroke: #79858c; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m980f04a526" x="147.6" y="226.101656" style="fill: #79858c; stroke: #79858c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #79858c" x="147.6" y="241.459078" transform="rotate(-0 147.6 241.459078)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m980f04a526" x="237.756522" y="226.101656" style="fill: #79858c; stroke: #79858c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #79858c" x="237.756522" y="241.459078" transform="rotate(-0 237.756522 241.459078)">20</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m980f04a526" x="327.913043" y="226.101656" style="fill: #79858c; stroke: #79858c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #79858c" x="327.913043" y="241.459078" transform="rotate(-0 327.913043 241.459078)">40</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m980f04a526" x="418.069565" y="226.101656" style="fill: #79858c; stroke: #79858c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #79858c" x="418.069565" y="241.459078" transform="rotate(-0 418.069565 241.459078)">60</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m980f04a526" x="508.226087" y="226.101656" style="fill: #79858c; stroke: #79858c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #79858c" x="508.226087" y="241.459078" transform="rotate(-0 508.226087 241.459078)">80</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m980f04a526" x="598.382609" y="226.101656" style="fill: #79858c; stroke: #79858c; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #79858c" x="598.382609" y="241.459078" transform="rotate(-0 598.382609 241.459078)">100</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15191d" x="406.8" y="256.459937" transform="rotate(-0 406.8 256.459937)">Points per 100 resolved scoring chances</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="m47fba98189" d="M 0 0 
+L -3.5 0 
+" style="stroke: #15191d; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m47fba98189" x="147.6" y="59.567838" style="fill: #15191d; stroke: #15191d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #15191d" x="140.6" y="63.746979" transform="rotate(-0 140.6 63.746979)">Field goals</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m47fba98189" x="147.6" y="107.422384" style="fill: #15191d; stroke: #15191d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #15191d" x="140.6" y="111.601524" transform="rotate(-0 140.6 111.601524)">And-one free throws</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m47fba98189" x="147.6" y="155.276929" style="fill: #15191d; stroke: #15191d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #15191d" x="140.6" y="159.45607" transform="rotate(-0 140.6 159.45607)">Shooting-foul trips</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m47fba98189" x="147.6" y="203.131474" style="fill: #15191d; stroke: #15191d; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #15191d" x="140.6" y="207.310615" transform="rotate(-0 140.6 207.310615)">Nonshooting-foul trips</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_7">
+    <path d="M 147.6 226.101656 
+L 666 226.101656 
+" style="fill: none; stroke: #dce3e6; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15191d" x="603.176464" y="62.42526" transform="rotate(-0 603.176464 62.42526)">100.1</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15191d" x="166.695334" y="110.279805" transform="rotate(-0 166.695334 110.279805)">3.2</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15191d" x="263.65936" y="158.134351" transform="rotate(-0 263.65936 158.134351)">24.7</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15191d" x="172.987985" y="205.988896" transform="rotate(-0 172.987985 205.988896)">4.6</text>
+   </g>
+   <g id="text_16">
+    <text style="font-weight: 700; font-size: 15px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15191d" x="147.6" y="18.597656" transform="rotate(-0 147.6 18.597656)">How SGA reaches 132.7 points per 100 chances</text>
+   </g>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #79858c" x="7.2" y="298.857656" transform="rotate(-0 7.2 298.857656)">Scoring channels add to the total. And-one points stay with the made field-goal chance; this is not points per possession.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pcdf45119cd">
+   <rect x="147.6" y="36.597656" width="518.4" height="189.504"/>
+  </clipPath>
+ </defs>
+</svg>

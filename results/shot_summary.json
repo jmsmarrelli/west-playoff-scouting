@@ -1,0 +1,80 @@
+{
+  "validation": {
+    "training_attempts": 218905,
+    "test_attempts": 215859,
+    "test_games": 1212,
+    "model_logloss": 0.6485987898495147,
+    "baseline_logloss": 0.6570204590529689,
+    "model_brier": 0.22865574963312413,
+    "baseline_brier": 0.2322256589494198,
+    "loss_difference": -0.008421669203454434,
+    "lower": -0.00913161239535603,
+    "upper": -0.0076531152094916,
+    "training_season": "2024-25",
+    "test_season": "2025-26"
+  },
+  "teams": [
+    {
+      "defense": "OKC",
+      "attempts": 7244,
+      "games": 82,
+      "actual": 1.0371341800110436,
+      "expected": 1.0769694913763328,
+      "residual": -0.039835311365289096,
+      "lower": -0.06719883984308277,
+      "upper": -0.01280592873119548,
+      "corner_share": 0.13210933186085036,
+      "rim_share": 0.2545554942020983
+    },
+    {
+      "defense": "DEN",
+      "attempts": 7292,
+      "games": 80,
+      "actual": 1.0850246845858476,
+      "expected": 1.0762307855064153,
+      "residual": 0.008793899079432286,
+      "lower": -0.015370128577021618,
+      "upper": 0.033498994265680745,
+      "corner_share": 0.12136588041689522,
+      "rim_share": 0.2593252879868349
+    },
+    {
+      "defense": "HOU",
+      "attempts": 7046,
+      "games": 80,
+      "actual": 1.0617371558330968,
+      "expected": 1.0658221092309275,
+      "residual": -0.004084953397830811,
+      "lower": -0.032546085021927226,
+      "upper": 0.025185217403076818,
+      "corner_share": 0.0878512631280159,
+      "rim_share": 0.26994039171160944
+    },
+    {
+      "defense": "MIN",
+      "attempts": 7267,
+      "games": 81,
+      "actual": 1.0575202972340718,
+      "expected": 1.0982001963591133,
+      "residual": -0.040679899125041344,
+      "lower": -0.06944304319718439,
+      "upper": -0.009555356947097585,
+      "corner_share": 0.09137195541488922,
+      "rim_share": 0.31154534195679096
+    },
+    {
+      "defense": "League",
+      "attempts": 215859,
+      "games": 1212,
+      "actual": 1.092032298861757,
+      "expected": 1.087406671567517,
+      "residual": 0.004625627294239978,
+      "lower": -0.000981692653736668,
+      "upper": 0.010322139943780057,
+      "corner_share": 0.10749609698923834,
+      "rim_share": 0.2840141017979329
+    }
+  ],
+  "spurs_vs_okc_attempts": 444,
+  "spurs_vs_okc_games": 5
+}

@@ -1,0 +1,13 @@
+{
+  "train_chances": 40553,
+  "test_chances": 59658,
+  "model_logloss": 0.5740138654619885,
+  "baseline_logloss": 0.5792641775569691,
+  "model_brier": 0.19315820279206128,
+  "baseline_brier": 0.1952502010644661,
+  "loss_difference": -0.005250312094980687,
+  "lower": -0.006177736917784028,
+  "upper": -0.004379657094150895,
+  "later_league_oreb_rate": 0.26594924402427167,
+  "later_league_residual": -0.004229228099017014
+}

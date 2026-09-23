@@ -1,0 +1,16 @@
+game_id,event_id,player_id,player,team,opponent,date,period,channel,fg_points,ft_points,points,zone,ft_only
+22500001,125,1628983,Shai Gilgeous-Alexander,OKC,HOU,2025-10-21,1,Shooting-foul trip,0,1,1,Free-throw trip,1
+22500001,618,1628983,Shai Gilgeous-Alexander,OKC,HOU,2025-10-21,4,Shooting-foul trip,0,2,2,Free-throw trip,1
+22500001,632,1628983,Shai Gilgeous-Alexander,OKC,HOU,2025-10-21,4,Shooting-foul trip,0,2,2,Free-throw trip,1
+22500001,804,1628983,Shai Gilgeous-Alexander,OKC,HOU,2025-10-21,6,Shooting-foul trip,0,1,1,Free-throw trip,1
+22500001,821,1628983,Shai Gilgeous-Alexander,OKC,HOU,2025-10-21,6,Shooting-foul trip,0,1,1,Free-throw trip,1
+22500001,847,1628983,Shai Gilgeous-Alexander,OKC,HOU,2025-10-21,6,Nonshooting-foul trip,0,1,1,Free-throw trip,1
+22500001,864,1628983,Shai Gilgeous-Alexander,OKC,HOU,2025-10-21,6,Shooting-foul trip,0,2,2,Free-throw trip,1
+22500005,18,1628983,Shai Gilgeous-Alexander,OKC,IND,2025-10-23,1,Shooting-foul trip,0,1,1,Free-throw trip,1
+22500005,47,1628983,Shai Gilgeous-Alexander,OKC,IND,2025-10-23,1,Shooting-foul trip,0,2,2,Free-throw trip,1
+22500005,62,1628983,Shai Gilgeous-Alexander,OKC,IND,2025-10-23,1,Shooting-foul trip,0,2,2,Free-throw trip,1
+22500005,237,1628983,Shai Gilgeous-Alexander,OKC,IND,2025-10-23,2,Shooting-foul trip,0,2,2,Free-throw trip,1
+22500005,367,1628983,Shai Gilgeous-Alexander,OKC,IND,2025-10-23,2,Nonshooting-foul trip,0,2,2,Free-throw trip,1
+22500005,617,1628983,Shai Gilgeous-Alexander,OKC,IND,2025-10-23,4,Shooting-foul trip,0,2,2,Free-throw trip,1
+22500005,695,1628983,Shai Gilgeous-Alexander,OKC,IND,2025-10-23,4,Shooting-foul trip,0,1,1,Free-throw trip,1
+22500005,727,1628983,Shai Gilgeous-Alexander,OKC,IND,2025-10-23,4,Nonshooting-foul trip,0,1,1,Free-throw trip,1
