@@ -1,5 +1,7 @@
 # Western playoff scouting
 
+[Read the basketball decision brief](reports/00_decision_brief.md) · [Visual design and rebuild](tools/VISUALS.md)
+
 Joseph Smarrelli · September 2026
 
 Three opponent studies for San Antonio preparation, with particular attention to Oklahoma City. Scouting priorities follow the [August Western Conference rankings](https://www.nba.com/news/offseason-power-rankings-west-2026). These are 2025–26 regular-season benchmarks, not a projected bracket or a current-rotation report.
@@ -42,3 +44,7 @@ See [METHODS.md](METHODS.md) for data rules and [VALIDATION.md](VALIDATION.md) f
 ## Source and rights
 
 Input records come from the [pinned NBA data archive](https://github.com/shufinskiy/nba_data/tree/e829d4678be1e075f99e5d41a1c5f97089be446b). The source manifest specifies every file, URL and checksum. These are public records redistributed by a third party; the game audit checks consistency, not independent official certification. Code is MIT licensed. Source data remain subject to their original owners’ terms. No team affiliation or proprietary data access is claimed.
+
+## Current review
+
+See [current validation](VALIDATION_CURRENT.md) for executed checks and unresolved rebuild requirements, and [provenance](PROVENANCE.md) for AI assistance. [Portfolio navigation](https://github.com/jmsmarrelli/basketball-analytics).

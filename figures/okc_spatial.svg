@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="478.822709pt" height="426.921357pt" viewBox="0 0 478.822709 426.921357" xmlns="http://www.w3.org/2000/svg" version="1.1">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1008pt" height="684pt" viewBox="0 0 1008 684" xmlns="http://www.w3.org/2000/svg" version="1.1">
  <metadata>
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:description>5-foot cells; common total-attempt denominators. Positive = more attempts here against OKC.
-The map is descriptive, not a coverage chart.</dc:description>
+    <dc:description>Source: results/okc_spatial_cells.csv · Consistent zone labels; attempts below 40 feet. Denominators include all eligible attempts. No smoothing. Cells outside the displayed grid are not renormalized. Color shows shot frequency, not efficiency or a causal effect.</dc:description>
     <dc:format>image/svg+xml</dc:format>
    </cc:Work>
   </rdf:RDF>
@@ -17,183 +16,200 @@ The map is descriptive, not a coverage chart.</dc:description>
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 426.921357 
-L 478.822709 426.921357 
-L 478.822709 0 
-L 0 0 
+   <path d="M 0 684
+L 1008 684
+L 1008 0
+L 0 0
 z
-" style="fill: #ffffff"/>
+" style="fill: #fbfaf6"/>
   </g>
   <g id="axes_1">
-   <g id="patch_2">
-    <path d="M 47.7 357.254769 
-L 403.452 357.254769 
-L 403.452 37.077969 
-L 47.7 37.077969 
-z
-" style="fill: #ffffff"/>
-   </g>
-   <g clip-path="url(#p9da3038d94)">
+   <g clip-path="url(#p9c11b4e4b7)">
     <image xlink:href="data:image/png;base64,
-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8vYnZ1N3f9awn+3UbQ+zhPPj/n6xwO/pXwtcxRJcAwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AIQINwCECDcAhAg3AITsNtc9AUs5XPcA/OfI435neBfvjs302bgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAEgRLgBIES4ASBEuAFgOv4BfRZlejWA+gAAAAAASUVORK5CYII=" id="imaged9712f03a4" transform="scale(1 -1) translate(0 -319.68)" x="47.52" y="-37.401357" width="355.68" height="319.68"/>
+iVBORw0KGgoAAAANSUhEUgAAAgsAAAHXCAYAAAAySxkHAAAJCUlEQVR4nO3YMY4cVRRA0V89bc8ggzEECAICxIpIWQARCctgFUjsgoSIiIgEEQEZAmQhhGyY7vF0s4NrybI05nFO2hX8X1X9dettP37x+XkN8v7Hn65JTofru14Cz3H84/dx92jbXaxJ9g8f3fUSeI6Lq9dG3aPH33y1Jtnd9QIAgFebWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAANL2w6+/nNcgHzx6uCb58/q4pnm03a5JPvv62zXNl9/9sCb57ZOP1iT33nzrrpfAc5yOs85ukwUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgbcfD03Nfwl16/Pf1uAfw1na7Jvn+r3/WNO+9/mBN8vZ6tia5ePDGmuZ8O+tcOO9mfYvP2g0A8NKJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACBtT375+bwG2b/+cE2yu7xa05xvDmuSw7Zf01w8+XNNcjpcr0ku33lvjbPN+nY93p7WJLOeDgDw0okFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgbdfXT85rkuNhTfJsf39Nc1+ivvLOz27WJNu9yzXJs9NpTbM7Xq9JTvev1iSObQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACDt1zC7y6s1yU+P/1jTfLg/r0m2/bi/0TpePliTXP7zdE2yrXl2r81653Zrlmn7AQBeMrEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAApO14eHpeg5zOo7az1vGwpvnteLsmefdqv6a52d1bk/x9c7MmeXR1uaY53p7WJPcvZn2Lz9oNAPDSiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFACCJBQAgiQUAIIkFAEAsAAAvzmQBAEhiAQBIYgEASGIBAEhiAQBI2/Hw9NyXAP83p/OsY2G3bXe9BPhPM1kAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAJJYAACSWAAAklgAAMQCAPDiTBYAgCQWAIAkFgCAJBYAgCQWAIAkFgCAJBYAgCQWAIAkFgCAJBYAgLTvn4H/o9223fUSgFeIyQIAkMQCAJDEAgCQxAIAkMQCAJDEAgCQxAIAkMQCAJDEAgCQxAIAkMQCAJDEAgCQxAIAkMQCAJDEAgCQxAIAkMQCAJDEAgCQxAIAkMQCAJDEAgCQxAIAkMQCAJDEAgCQxAIAkMQCAJDEAgCQxAIAkMQCAJDEAgCQxAIAkMQCAJDEAgCQxAIAkMQCACAWAIAXZ7IAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAACSxAAAksQAAJLEAAKzyL9vKcUVdbDITAAAAAElFTkSuQmCC" id="imagea9931d6566" transform="scale(1 -1) translate(0 -339.12)" x="126.72" y="-177.84" width="376.56" height="339.12"/>
+   </g>
+   <g id="patch_2">
+    <path d="M 126.55102 519.142041
+L 503.44898 519.142041
+L 503.44898 164.857959
+L 126.55102 164.857959
+L 126.55102 519.142041
+z
+" clip-path="url(#p9c11b4e4b7)" style="fill: none; stroke: #172d36; stroke-width: 0.85; stroke-linejoin: miter"/>
    </g>
    <g id="patch_3">
-    <path d="M 47.7 359.033529 
-L 403.452 359.033529 
-L 403.452 24.626649 
-L 47.7 24.626649 
-L 47.7 359.033529 
+    <path d="M 254.696327 519.142041
+L 375.303673 519.142041
+L 375.303673 375.920816
+L 254.696327 375.920816
+L 254.696327 519.142041
 z
-" clip-path="url(#p9da3038d94)" style="fill: none; stroke: #79858c; stroke-width: 0.7; stroke-linejoin: miter"/>
+" clip-path="url(#p9c11b4e4b7)" style="fill: none; stroke: #172d36; stroke-width: 0.85; stroke-linejoin: miter"/>
    </g>
    <g id="patch_4">
-    <path d="M 168.65568 359.033529 
-L 282.49632 359.033529 
-L 282.49632 223.847769 
-L 168.65568 223.847769 
-L 168.65568 359.033529 
+    <path d="M 315 485.221224
+C 316.499318 485.221224 317.937429 484.625539 318.997607 483.565362
+C 320.057784 482.505184 320.653469 481.067073 320.653469 479.567755
+C 320.653469 478.068437 320.057784 476.630326 318.997607 475.570149
+C 317.937429 474.509971 316.499318 473.914286 315 473.914286
+C 313.500682 473.914286 312.062571 474.509971 311.002393 475.570149
+C 309.942216 476.630326 309.346531 478.068437 309.346531 479.567755
+C 309.346531 481.067073 309.942216 482.505184 311.002393 483.565362
+C 312.062571 484.625539 313.500682 485.221224 315 485.221224
+L 315 485.221224
 z
-" clip-path="url(#p9da3038d94)" style="fill: none; stroke: #79858c; stroke-width: 0.7; stroke-linejoin: miter"/>
+" clip-path="url(#p9c11b4e4b7)" style="fill: none; stroke: #172d36; stroke-width: 0.85; stroke-linejoin: miter"/>
    </g>
    <g id="patch_5">
-    <path d="M 225.576 327.015849 
-C 226.991198 327.015849 228.348624 326.453585 229.34932 325.452889 
-C 230.350016 324.452192 230.91228 323.094767 230.91228 321.679569 
-C 230.91228 320.264371 230.350016 318.906945 229.34932 317.906249 
-C 228.348624 316.905553 226.991198 316.343289 225.576 316.343289 
-C 224.160802 316.343289 222.803376 316.905553 221.80268 317.906249 
-C 220.801984 318.906945 220.23972 320.264371 220.23972 321.679569 
-C 220.23972 323.094767 220.801984 324.452192 221.80268 325.452889 
-C 222.803376 326.453585 224.160802 327.015849 225.576 327.015849 
-L 225.576 327.015849 
-z
-" clip-path="url(#p9da3038d94)" style="fill: none; stroke: #79858c; stroke-width: 0.7; stroke-linejoin: miter"/>
+    <path d="M 360.227755 375.920816
+C 360.227755 363.93027 355.459449 352.41856 346.980852 343.939964
+C 338.502256 335.461368 326.990546 330.693061 315 330.693061
+C 303.009454 330.693061 291.497744 335.461368 283.019148 343.939964
+C 274.540551 352.41856 269.772245 363.93027 269.772245 375.920816
+" clip-path="url(#p9c11b4e4b7)" style="fill: none; stroke: #172d36; stroke-width: 0.85; stroke-linejoin: miter"/>
    </g>
    <g id="patch_6">
-    <path d="M 268.26624 223.847769 
-C 268.26624 212.529955 263.765461 201.664113 255.762558 193.661211 
-C 247.759656 185.658308 236.893813 181.157529 225.576 181.157529 
-C 214.258187 181.157529 203.392344 185.658308 195.389442 193.661211 
-C 187.386539 201.664113 182.88576 212.529955 182.88576 223.847769 
-" clip-path="url(#p9da3038d94)" style="fill: none; stroke: #79858c; stroke-width: 0.7; stroke-linejoin: miter"/>
+    <path d="M 269.772245 375.920816
+C 269.772245 387.911362 274.540551 399.423072 283.019148 407.901669
+C 291.497744 416.380265 303.009454 421.148571 315 421.148571
+C 326.990546 421.148571 338.502256 416.380265 346.980852 407.901669
+C 355.459449 399.423072 360.227755 387.911362 360.227755 375.920816
+" clip-path="url(#p9c11b4e4b7)" style="fill: none; stroke-dasharray: 3.145,1.36; stroke-dashoffset: 0; stroke: #172d36; stroke-width: 0.85; stroke-linejoin: miter"/>
    </g>
    <g id="patch_7">
-    <path d="M 382.253568 258.377722 
-C 369.641091 227.160747 347.982176 200.414214 320.069647 181.586976 
-C 292.157118 162.759738 259.244593 152.697369 225.576 152.697369 
-C 191.907407 152.697369 158.994882 162.759738 131.082353 181.586976 
-C 103.169824 200.414214 81.510909 227.160747 68.898432 258.377722 
-" clip-path="url(#p9da3038d94)" style="fill: none; stroke: #79858c; stroke-width: 0.7; stroke-linejoin: miter"/>
+    <path d="M 345.151837 479.567755
+C 345.151837 471.574058 341.972966 463.899584 336.320568 458.247187
+C 330.668171 452.594789 322.993697 449.415918 315 449.415918
+C 307.006303 449.415918 299.331829 452.594789 293.679432 458.247187
+C 288.027034 463.899584 284.848163 471.574058 284.848163 479.567755
+" clip-path="url(#p9c11b4e4b7)" style="fill: none; stroke: #172d36; stroke-width: 0.85; stroke-linejoin: miter"/>
    </g>
-   <g id="matplotlib.axis_1"/>
-   <g id="matplotlib.axis_2"/>
+   <g id="patch_8">
+    <path d="M 480.837917 412.126789
+C 467.426803 379.148745 444.478802 350.908718 414.941924 331.034559
+C 385.405046 311.160399 350.600693 300.541224 315 300.541224
+C 279.399307 300.541224 244.594954 311.160399 215.058076 331.034559
+C 185.521198 350.908718 162.573197 379.148745 149.162083 412.126789
+" clip-path="url(#p9c11b4e4b7)" style="fill: none; stroke: #172d36; stroke-width: 0.85; stroke-linejoin: miter"/>
+   </g>
    <g id="line2d_1">
-    <path d="M 69.04512 359.033529 
-L 69.04512 258.355713 
-" clip-path="url(#p9da3038d94)" style="fill: none; stroke: #79858c; stroke-width: 0.7; stroke-linecap: square"/>
+    <path d="M 292.386122 485.221224
+L 337.613878 485.221224
+" clip-path="url(#p9c11b4e4b7)" style="fill: none; stroke: #172d36; stroke-width: 1.1; stroke-linecap: square"/>
    </g>
    <g id="line2d_2">
-    <path d="M 382.10688 359.033529 
-L 382.10688 258.355713 
-" clip-path="url(#p9da3038d94)" style="fill: none; stroke: #79858c; stroke-width: 0.7; stroke-linecap: square"/>
+    <path d="M 149.164898 519.142041
+L 149.164898 412.10302
+" clip-path="url(#p9c11b4e4b7)" style="fill: none; stroke: #172d36; stroke-width: 0.85; stroke-linecap: square"/>
    </g>
-   <g id="text_1">
-    <text style="font-weight: 700; font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15191d" x="47.7" y="17.077969" transform="rotate(-0 47.7 17.077969)">Where OKC opponents take more—or fewer—shots</text>
+   <g id="line2d_3">
+    <path d="M 480.835102 519.142041
+L 480.835102 412.10302
+" clip-path="url(#p9c11b4e4b7)" style="fill: none; stroke: #172d36; stroke-width: 0.85; stroke-linecap: square"/>
    </g>
   </g>
   <g id="axes_2">
-   <g id="patch_8">
-    <path d="M 419.004 361.182369 
-L 435.4056 361.182369 
-L 435.4056 33.150369 
-L 419.004 33.150369 
+   <g id="patch_9">
+    <path d="M 131.04 551.988
+L 483.84 551.988
+L 483.84 541.044
+L 131.04 541.044
 z
-" style="fill: #ffffff"/>
+" style="fill: #fbfaf6"/>
    </g>
    <image xlink:href="data:image/png;base64,
-iVBORw0KGgoAAAANSUhEUgAAABcAAAHICAYAAAClNXHuAAACyElEQVR4nO1b240kQQzClC+fS+nC3mC6arXf4/tkW5QgAIQwfnRPT/35++8LIhBCdHHJyCljRpRfWNDlqpy+njPKP9FFne2UMSMFvc7z9p2KldkyIJvojSZimugTaf8Rmecj0kQj0kQjmiyo0CUkp4wZP8rLVTl9PWei+ImmbRQrUbyq/buE2qmjRub5be3fvrOFmedXRZHG87xcbSnbTUTbKJav8hI2EX1toavyFeUDYsuIRHFEd5rotiaijJwyZph7Xp7klDHjR7ntk8Xy9ZyuyjtNdFdBV5QPiC0jEsURSct1tpSrctoqXzrhMH71t2wLSlvlSxhF+v4IxRR0QJrohfctTBQHJIq3HaJUHkXLtoloq3z5fg5Ryvfn5VpQ2ipfieIL37dAR064RrF8H7hKR04dNaw9h/RLS8hAHTWsowgd6HsUlW1BKSSnkBvGH1rTNi2lPYp0oJAbieJlm6idO7Rk5JQxw9tz6EAhN3IUjeg6B54FxdmuTXR0ytvXFiSKV0WRMmaIc97OTbRdlW9X5ZUoDsg8vyyKlDEj8/y+eV62yiHcRJ0rd0KieFv7Q3oU7cfUlmN75cLWcwiV93l8bdkycsqYYR3FY6scyqPoGNvyyMgpY4Z1+x/jkft4klPGjBxF90Xx2M4W2DYRbJUf43m+leSPjJwyZlifc8d2cJ1ne5JTxowU9LooUqp8CzdRZ7ZMSBR/Py29bTv0RPmA7NAROYpG9M6Ve9VDbue0mJBNdN3233nI/USfx/VPHNs4ikdHvm0LenwL+rh6vm2VH+VLyy3sUMqYYR7FLSOnreedgt61oCljRub5jU10ZOSUMcP6xcL29fyRbqItI6eMGSnoO54fYRQf2//7PzrhUCs/MnLKmBHP/4NEcUSi+Ptp6cyWCZnnIzK4RsSWN65c6EAhN6Qjt3PlTshpMSLbf0RsGSFtom8q7078RoOCFwAAAABJRU5ErkJggg==" id="image4d6600cbe6" transform="scale(1 -1) translate(0 -328.32)" x="419.04" y="-32.4" width="16.56" height="328.32"/>
-   <g id="matplotlib.axis_3"/>
-   <g id="matplotlib.axis_4">
-    <g id="ytick_1">
-     <g id="line2d_3">
-      <defs>
-       <path id="mbbc69455b5" d="M 0 0 
-L 3.5 0 
-" style="stroke: #15191d; stroke-width: 0.8"/>
-      </defs>
-      <g>
-       <use xlink:href="#mbbc69455b5" x="435.4056" y="308.601087" style="fill: #15191d; stroke: #15191d; stroke-width: 0.8"/>
-      </g>
+iVBORw0KGgoAAAANSUhEUgAAAeoAAAAQCAYAAADZEzzxAAABMklEQVR4nO3VS5KDIBAAUMxqTj0XmDuHqSF+IgElcRa9eG9DoXRrg1ZPX98/OaWUbtOU2mNa51N3zevakXEeyny9l67l3t6xkfvD92/V/W6ty/rzPWzkTu/X3M89tvb1Pfvrz/bxyndz+u2c7E3rGVdqHc393//K3/qRb6c8O5dfOuV5TPk+D48xPV3P92rNcm9em3MVs14/zl3iermPYsoz6rj99TJfYho1jeTe6tqu17VuOdp7M5q77HE3R2/f63r2813c4Jn0cjXP/JPzftqDkdzXzy6vuftnV+do13MY14s5Ou+DPRjJXee4PWYAQEQaNQAEplEDQGAaNQAEplEDQGAaNQAEplEDQGAaNQAEplEDQGAaNQAEplEDQGAaNQAEplEDQGAaNQAEplEDQIrrF+VIOW+DaU5nAAAAAElFTkSuQmCC" id="imagebb8c7aab6b" transform="scale(1 -1) translate(0 -11.52)" x="131.04" y="-540.72" width="352.8" height="11.52"/>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_4"/>
+     <g id="text_1">
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5d6b70" x="131.04" y="562.326594" transform="rotate(-0 131.04 562.326594)">3 fewer</text>
      </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_5"/>
      <g id="text_2">
-      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15191d" x="442.4056" y="312.779798" transform="rotate(-0 442.4056 312.779798)">−2</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5d6b70" x="307.44" y="562.325891" transform="rotate(-0 307.44 562.325891)">Same</text>
      </g>
     </g>
-    <g id="ytick_2">
-     <g id="line2d_4">
-      <g>
-       <use xlink:href="#mbbc69455b5" x="435.4056" y="252.883728" style="fill: #15191d; stroke: #15191d; stroke-width: 0.8"/>
-      </g>
-     </g>
+    <g id="xtick_3">
+     <g id="line2d_6"/>
      <g id="text_3">
-      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15191d" x="442.4056" y="257.062439" transform="rotate(-0 442.4056 257.062439)">−1</text>
+      <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #5d6b70" x="483.84" y="562.325891" transform="rotate(-0 483.84 562.325891)">3 more</text>
      </g>
     </g>
-    <g id="ytick_3">
-     <g id="line2d_5">
-      <g>
-       <use xlink:href="#mbbc69455b5" x="435.4056" y="197.166369" style="fill: #15191d; stroke: #15191d; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_4">
-      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15191d" x="442.4056" y="201.34508" transform="rotate(-0 442.4056 201.34508)">0</text>
-     </g>
-    </g>
-    <g id="ytick_4">
-     <g id="line2d_6">
-      <g>
-       <use xlink:href="#mbbc69455b5" x="435.4056" y="141.44901" style="fill: #15191d; stroke: #15191d; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_5">
-      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15191d" x="442.4056" y="145.627721" transform="rotate(-0 442.4056 145.627721)">1</text>
-     </g>
-    </g>
-    <g id="ytick_5">
-     <g id="line2d_7">
-      <g>
-       <use xlink:href="#mbbc69455b5" x="435.4056" y="85.731651" style="fill: #15191d; stroke: #15191d; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_6">
-      <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #15191d" x="442.4056" y="89.910362" transform="rotate(-0 442.4056 89.910362)">2</text>
-     </g>
-    </g>
-    <g id="text_7">
-     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #15191d" x="469.4606" y="197.166369" transform="rotate(-90 469.4606 197.166369)">OKC minus league: attempts per 100 FGA</text>
+    <g id="text_4">
+     <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #172d36" x="307.44" y="577.327297" transform="rotate(-0 307.44 577.327297)">Attempts in the cell per 100 total FGA</text>
     </g>
    </g>
+   <g id="matplotlib.axis_2"/>
    <g id="LineCollection_1"/>
-   <g id="patch_9">
-    <path d="M 419.004 361.182369 
-L 427.2048 361.182369 
-L 435.4056 361.182369 
-L 435.4056 33.150369 
-L 427.2048 33.150369 
-L 419.004 33.150369 
-L 419.004 361.182369 
-z
-" style="fill: none; stroke: #dce3e6; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
-   </g>
+  </g>
+  <g id="line2d_7">
+   <path d="M 45.36 133.38
+L 962.64 133.38
+" style="fill: none; stroke: #172d36; stroke-width: 0.8; stroke-linecap: square"/>
+  </g>
+  <g id="line2d_8">
+   <path d="M 45.36 598.5
+L 962.64 598.5
+" style="fill: none; stroke: #dce3e3; stroke-width: 0.8; stroke-linecap: square"/>
+  </g>
+  <g id="text_5">
+   <text style="font-weight: 700; font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087e8b" x="45.36" y="36.252" transform="rotate(-0 45.36 36.252)">COURT GEOGRAPHY / DESCRIPTIVE SCOUTING</text>
+  </g>
+  <g id="text_6">
+   <text style="font-weight: 700; font-size: 26px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172d36" x="45.36" y="80.712" transform="rotate(-0 45.36 80.712)">Where opponents shoot against Oklahoma City</text>
+  </g>
+  <g id="text_7">
+   <text style="font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5d6b70" x="45.36" y="112.86" transform="rotate(-0 45.36 112.86)">2025–26 regular season · each square is a 5-foot cell · color compares frequency with the league</text>
   </g>
   <g id="text_8">
-   <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #79858c" transform="translate(7.2 405.855908)">5-foot cells; common total-attempt denominators. Positive = more attempts here against OKC.</text>
-   <text style="font-size: 9px; font-family: 'DejaVu Sans'; fill: #79858c" transform="translate(7.2 416.658369)">The map is descriptive, not a coverage chart.</text>
+   <text style="font-weight: 700; font-size: 29px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #087e8b" x="630" y="205.2" transform="rotate(-0 630 205.2)">7,244</text>
+  </g>
+  <g id="text_9">
+   <text style="font-size: 10px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5d6b70" x="630" y="229.14" transform="rotate(-0 630 229.14)">opponent attempts · 82 games</text>
+  </g>
+  <g id="text_10">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172d36" x="630" y="295.638281" transform="rotate(-0 630 295.638281)">Read the geography</text>
+  </g>
+  <g id="text_11">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5d6b70" transform="translate(630 325.412344)">Orange means opponents take a larger share</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5d6b70" transform="translate(630 341.162344)">of their shots in that cell against OKC.</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5d6b70" transform="translate(630 357.929531)">Teal means a smaller share.</text>
+  </g>
+  <g id="text_12">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172d36" x="630" y="422.178281" transform="rotate(-0 630 422.178281)">Turn a map into a question</text>
+  </g>
+  <g id="text_13">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5d6b70" transform="translate(630 451.952344)">Which actions produce the extra corner</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5d6b70" transform="translate(630 467.702344)">attempts? Review those possessions before</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5d6b70" transform="translate(630 483.452344)">attributing the pattern to a coverage</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5d6b70" transform="translate(630 500.219531)">choice.</text>
+  </g>
+  <g id="text_14">
+   <text style="font-weight: 700; font-size: 11px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172d36" x="630" y="535.038281" transform="rotate(-0 630 535.038281)">No measure of openness</text>
+  </g>
+  <g id="text_15">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5d6b70" transform="translate(630 565.829531)">These records do not show defender distance</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #5d6b70" transform="translate(630 581.579531)">or rotations.</text>
+  </g>
+  <g id="text_16">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5d6b70" x="45.36" y="620.388" transform="rotate(-0 45.36 620.388)">Source: results/okc_spatial_cells.csv · Consistent zone labels; attempts below 40 feet. Denominators include all eligible attempts.</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 9px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #5d6b70" x="45.36" y="639.54" transform="rotate(-0 45.36 639.54)">No smoothing. Cells outside the displayed grid are not renormalized. Color shows shot frequency, not efficiency or a causal effect.</text>
+  </g>
+  <g id="text_18">
+   <text style="font-weight: 700; font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172d36" x="45.36" y="666.9" transform="rotate(-0 45.36 666.9)">JOSEPH SMARRELLI  /  BASKETBALL ANALYTICS</text>
+  </g>
+  <g id="text_19">
+   <text style="font-size: 8px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #5d6b70" x="962.64" y="666.9" transform="rotate(-0 962.64 666.9)">PUBLIC DATA · REPRODUCIBLE FIGURE</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p9da3038d94">
-   <rect x="47.7" y="37.077969" width="355.752" height="320.1768"/>
+  <clipPath id="p9c11b4e4b7">
+   <rect x="119.013061" y="157.32" width="391.973878" height="369.36"/>
   </clipPath>
  </defs>
 </svg>
